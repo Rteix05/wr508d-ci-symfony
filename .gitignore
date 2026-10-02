@@ -19,3 +19,10 @@
 /.phpunit.cache/
 ###< phpunit/phpunit ###
 /.phpunit.result.cache
+
+###> symfony/reprise ###
+/node_modules/
+/public/build/
+###< symfony/reprise ###
+node_modules/
+public/build/
